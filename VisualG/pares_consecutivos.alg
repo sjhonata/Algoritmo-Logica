@@ -2,11 +2,11 @@ Algoritmo "pares_consecutivos"
 
 Var
 
-   x, i , soma, par : inteiro
+   x, i , soma : inteiro
 
 Inicio
 
-   escreva("Digite um número inteiro: ")
+   escreva("Digite um nÃºmero inteiro: ")
    leia(x)
    
    enquanto x <> 0 faca
@@ -18,7 +18,7 @@ Inicio
       soma <- 5 * x + 20 // x + x+2 + x+4 + x+6 + x+8
       escreval("SOMA: ", soma)
 
-      escreva("Digite um número inteiro: ")
+      escreva("Digite um nÃºmero inteiro: ")
       leia(x)
       
    fimenquanto
