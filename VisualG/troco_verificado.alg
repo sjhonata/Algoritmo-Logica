@@ -7,7 +7,7 @@ Var
 
 Inicio
 
-      escreva("PreÁo unit·rio do produto: ")
+      escreva("Pre√ßo unit√°rio do produto: ")
       leia(preco)
       escreva("Quantidade comprada: ")
       leia(qtd)
@@ -25,5 +25,6 @@ Inicio
         escreva("Dinheiro insuficiente. Faltam R$ ", restante:2:2)
         fimse
       fimse
-      
+     
+     
 Fimalgoritmo
