@@ -6,7 +6,7 @@ Var
 
 Inicio
 
-   escreva("Digite dois n˙meros: ")
+   escreva("Digite dois n√∫meros: ")
    leia(x)
    leia(y)
    
@@ -26,5 +26,5 @@ Inicio
       
     fimpara
     
-       escreval("Soma dos Õmpares: ", soma)
+       escreval("Soma dos √çmpares: ", soma)
 Fimalgoritmo
