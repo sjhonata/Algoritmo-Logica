@@ -7,14 +7,14 @@ Var
 
 Inicio
 
-    escreva("Quantos números você vai digitar? ")
+    escreva("Quantos nÃºmeros vocÃª vai digitar? ")
     leia(n)
     
     dentro <- 0
     fora <- 0
     
     para i de 1 ate n faca
-      escreva("Digite um número: ")
+      escreva("Digite um nÃºmero: ")
       leia(x)
       
       se (x >= 10) e (x <= 20) entao
