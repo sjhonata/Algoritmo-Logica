@@ -10,7 +10,7 @@ Inicio
    G <- 0
    D <- 0
    
-   escreva("Informe um código (1, 2, 3) ou 4 para parar: ")
+   escreva("Informe um cÃ³digo (1, 2, 3) ou 4 para parar: ")
    leia(cod)
 
    enquanto cod <> 4 faca
@@ -24,13 +24,13 @@ Inicio
        D <- D + 1
      fimescolha
      
-      escreva("Informe um código (1, 2, 3) ou 4 para parar: ")
+      escreva("Informe um cÃ³digo (1, 2, 3) ou 4 para parar: ")
       leia(cod)
       
    fimenquanto
    
    escreval("MUITO OBRIGADO!")
-   escreval("Álcool: ", A)
+   escreval("Ãlcool: ", A)
    escreval("Gasolina: ", G)
    escreval("Diesel: ", D)
    
