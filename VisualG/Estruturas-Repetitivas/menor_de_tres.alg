@@ -23,5 +23,5 @@ Inicio
       fimse
     fimse
     
-    escreva("O menor valor é: ", menor)
+    escreva("O menor valor Ã©: ", menor)
 Fimalgoritmo
