@@ -15,6 +15,6 @@ Inicio
        taxa <- taxa + 2 * (consumo - 100)
        fimse
 
-     escreva("O valor é: R$ ", taxa)
+     escreva("O valor Ã©: R$ ", taxa)
        
 Fimalgoritmo
