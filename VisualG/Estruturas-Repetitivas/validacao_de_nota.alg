@@ -11,7 +11,7 @@ Inicio
     leia(nota1)
 
       enquanto (nota1 < 0) ou (nota1 > 10) faca
-        escreva("Valor inv·lido! Tente novamente: ")
+        escreva("Valor inv√°lido! Tente novamente: ")
         leia(nota1)
       fimenquanto
 
@@ -19,12 +19,12 @@ Inicio
     leia(nota2)
     
       enquanto (nota2 < 0) ou (nota2 > 10) faca
-         escreva("Valor inv·lido! Tente novamente: ")
+         escreva("Valor inv√°lido! Tente novamente: ")
          leia(nota2)
       fimenquanto
       
     media <- (nota1 + nota2)/2
 
-    escreval("MÈdia: ", media:4:2)
+    escreval("M√©dia: ", media:4:2)
 
 Fimalgoritmo
