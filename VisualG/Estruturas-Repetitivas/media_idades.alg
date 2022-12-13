@@ -23,10 +23,10 @@ Inicio
    fimenquanto
 
    se cont = 0 entao
-     escreval("Impossível calcular")
+     escreval("ImpossÃ­vel calcular")
    senao
      media <- soma / cont
-     escreval("Média: ", media:4:2)
+     escreval("MÃ©dia: ", media:4:2)
    fimse
    
 Fimalgoritmo
