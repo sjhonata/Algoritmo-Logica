@@ -23,4 +23,5 @@ Inicio
        escreval("X1 = ", x1:8:4)
        escreval("X2 = ", x2:8:4)
      fimse
+     
 Fimalgoritmo
