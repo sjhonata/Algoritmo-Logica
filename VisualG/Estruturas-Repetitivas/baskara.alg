@@ -16,7 +16,7 @@ Inicio
      delta <- Exp(b,2) - 4 * a * c
      
      se (a = 0) ou (delta < 0) entao
-       escreval("Esta equação não possui raizes reais")
+       escreval("Esta equaÃ§Ã£o nÃ£o possui raizes reais")
      senao
      x1 <- (-b + RaizQ(delta)) / 2 * a
      x2 <- (-b - RaizQ(delta)) / 2 * a
