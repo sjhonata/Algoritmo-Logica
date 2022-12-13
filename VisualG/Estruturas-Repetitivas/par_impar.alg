@@ -7,11 +7,11 @@ Var
 
 Inicio
 
-   escreva("Quantos números você vai digitar? ")
+   escreva("Quantos nÃºmeros vocÃª vai digitar? ")
    leia(n)
    
    para i de 1 ate n faca
-     escreva("Digite um número: ")
+     escreva("Digite um nÃºmero: ")
      leia(x)
      
      se (x mod 2 = 0) e (x > 0) entao
