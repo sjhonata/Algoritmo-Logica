@@ -2,7 +2,7 @@ Algoritmo "pares_consecutivos"
 
 Var
 
-   x, i , soma : inteiro
+    x, i , soma : inteiro
 
 Inicio
 
