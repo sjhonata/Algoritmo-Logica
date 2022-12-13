@@ -24,9 +24,9 @@ Inicio
         aumento <- novoSalario - salario
         porcentagem <- 10
         senao
-        novoSalario <- salario * 1.05
-        aumento <- novoSalario - salario
-        porcentagem <- 5
+          novoSalario <- salario * 1.05
+          aumento <- novoSalario - salario
+          porcentagem <- 5
         fimse
       fimse
     fimse
