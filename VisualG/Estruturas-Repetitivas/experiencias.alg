@@ -8,7 +8,7 @@ Var
    
 Inicio
 
-    escreva("Quantos casos de teste ser„o digitados?")
+    escreva("Quantos casos de teste ser√£o digitados?")
     leia(n)
     
     totalCoelhos <- 0
@@ -39,7 +39,7 @@ Inicio
     pSapos <- totalSapos * 100 / totalCobaias
     pCoelhos <- totalCoelhos * 100 / totalCobaias
     
-    escreval("RELAT”RIO FINAL:")
+    escreval("RELAT√ìRIO FINAL:")
     escreval("Total: ", totalCobaias)
     escreval("Total de coelhos: ", totalCoelhos)
     escreval("Total de ratos: ", totalRatos)
